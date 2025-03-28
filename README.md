@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bin Lama</h1>
 
-### I am a web developer, who loves simplifying annoying tasks!
+### I am a software developer!
 
 - 🔭 I’m currently working on building personal productivity tools
 
