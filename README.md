@@ -2,9 +2,9 @@
 
 ### I am a web developer, who loves simplifying annoying tasks!
 
-- 🔭 I’m currently working on **Pomodoro Timer**
+- 🔭 I’m currently working on building personal productivity tools
 
-- 🌱 I’m currently learning **Nodejs, React, Mongodb, Tailwind**
+- 🌱 I’m currently learning about **AI** and what and how **MCP Servers** work
 
 - ⚡ Fun fact: **I like hiking and playing piano.**
 
