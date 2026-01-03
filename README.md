@@ -1,1 +1,3 @@
-<h1>Just do it</h1>
+> Not everyone who works hard are rewarded,
+>
+> **However all those who succeed have worked hard**
